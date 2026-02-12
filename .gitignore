@@ -2,3 +2,5 @@
 *.swo
 .cache
 coverage.out*
+# Examples
+dl
